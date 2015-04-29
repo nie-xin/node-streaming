@@ -5,4 +5,3 @@ process.stdin.pipe(concat(function(buf) {
   console.log(reversed);
 }));
 
-
